@@ -13,5 +13,14 @@
     "@astrojs/check": "^0.3.3",
     "astro": "^4.0.6",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.6",
+    "@semantic-release/npm": "^11.0.2",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "conventional-changelog-eslint": "^5.0.0"
   }
 }
