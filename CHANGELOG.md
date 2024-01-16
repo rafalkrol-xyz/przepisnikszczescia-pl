@@ -1,0 +1,13 @@
+# 1.0.0 (2024-01-16)
+
+
+### Fix
+
+* correct a typo in T&Cs ([1a9b3b6](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/1a9b3b6d7a580ee7c6f05505a05820e51309889f))
+
+### New
+
+* Add release workflow, favicon and T&Cs for the birthday competition (#2) ([d718097](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/d7180975c58e2dd35ca247deb653e93ff75f24cf)), closes [#2](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/issues/2)
+* create test ([999a860](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/999a860e550967f55da6b2e85367a77d7a927a0f))
+* create the initial version of the website (#1) ([ca5c7c2](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/ca5c7c22ac7980db908663ec1c2e890c0c7188ca)), closes [#1](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/issues/1)
+* install the portfolio theme from Astro ([82ca17c](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/82ca17ccbc0cb7725b5d7abc91d2eeafd7c04abf))
