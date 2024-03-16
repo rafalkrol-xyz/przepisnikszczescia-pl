@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.0.0...v1.1.0) (2024-03-16)
+
+
+### New
+
+* add a section with selected work (#3) ([856f34d](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/856f34d69fba2fedbacfeab686c7a10622f52452)), closes [#3](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/issues/3)
+
 # 1.0.0 (2024-01-16)
 
 
