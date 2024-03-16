@@ -11,4 +11,4 @@ tags:
 ---
 
 Ilustracja wykonana w programie [Procreate](https://procreate.com/),
-dostępna w formie plakatu [w moim sklepie internetowym](https://www.sklep.przepisnikszczescia.pl/home-is-where-my-plants-are.html).
+dostępna w formie plakatu [w moim sklepie internetowym](https://www.sklep.przepisnikszczescia.pl/zakochani.html).
