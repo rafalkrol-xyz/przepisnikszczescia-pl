@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.2.0...v1.3.0) (2024-08-04)
+
+
+### New
+
+* add an open graph image for the website (#6) ([d7def9c](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/d7def9c0505e57fa5425ba99b70c1a4600e49d9a)), closes [#6](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/issues/6)
+
 # [1.2.0](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.1.1...v1.2.0) (2024-08-04)
 
 
