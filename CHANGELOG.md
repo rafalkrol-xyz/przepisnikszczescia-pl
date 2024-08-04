@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.1.1...v1.2.0) (2024-08-04)
+
+
+### New
+
+* add a new poster (#5) ([8d8abda](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/8d8abda5095da39d5dfe36a2ea764abbf0cb0972)), closes [#5](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/issues/5)
+
 ## [1.1.1](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.1.0...v1.1.1) (2024-08-04)
 
 
