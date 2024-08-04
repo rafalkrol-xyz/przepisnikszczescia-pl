@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.1.0...v1.1.1) (2024-08-04)
+
+
+### Fix
+
+* Make images smaller and thus lighter (#4) ([fb6cbde](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/commit/fb6cbdefcbc9c774b21cc800ac5ab242925f466d)), closes [#4](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/issues/4)
+
 # [1.1.0](https://github.com/rafalkrol-xyz/przepisnikszczescia-pl/compare/v1.0.0...v1.1.0) (2024-03-16)
 
 
