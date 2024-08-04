@@ -1,6 +1,6 @@
 ---
 title: Hydroponiara
-publishDate: 2024-03-01 00:00:00
+publishDate: 2024-06-01 00:00:00
 img: /assets/selected-work/hydroponiara_1.JPG
 img_alt: A white mug with the word &quot;Hydroponiara&quot; (meaning a hydroponics girl) on it.
 description: |
